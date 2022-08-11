@@ -4,8 +4,6 @@ AF_DCMotor Motor2 (4);
 int desbloqueio = 0;
 bool teste = true;
 int F, R, L;
-// 0 - branco
-//1 - Preto
 
 //Seguidor de linha
 #define L1 22
